@@ -1,6 +1,6 @@
 # Sockets-proxy
 
-Integrantes: 
+Integrantes:  
 
 . Cristian David Rodríguez López - 20171020072 
 
